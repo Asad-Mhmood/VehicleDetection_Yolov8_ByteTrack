@@ -1,0 +1,11 @@
+# Ultralytics requirements
+# Example: pip install -r requirements.txt
+
+# Base ----------------------------------------
+ultralytics
+opencv-python
+cvzone
+filterpy==1.4.5
+scikit-image
+filterpy
+
